@@ -1,7 +1,6 @@
 # Fitting Poisson  distribution
 # NAME : KABIRA A
 # REG NO : 212224040146
-# DATE : 29/04/2025
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
